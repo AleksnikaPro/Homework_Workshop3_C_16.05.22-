@@ -7,4 +7,4 @@ for (int num = 1; num <= number; num++)
 {
     sum = sum + num;
 }
-Console.WriteLine($"Cумму чисел от 1 до {number} равна {sum} ");
+Console.WriteLine($"Cумма чисел от 1 до {number} равна {sum} ");
